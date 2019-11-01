@@ -1,7 +1,7 @@
 # Resume-CV
-STATEMENT
+##**STATEMENT**
 My interests lie in design and project management. Every person has a story to tell and I want to be there to help turn the pages.
-EDUCATION
+**EDUCATION**
 SAVANNAH COLLEGE OF ART AND DESIGN
 Master of Arts - Design Management | Start Spring 2020
 **UNIVERSITY OF CENTRAL FLORIDA**
