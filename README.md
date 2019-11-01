@@ -1,5 +1,5 @@
 # Resume-CV
-##**STATEMENT**
+**STATEMENT**
 My interests lie in design and project management. Every person has a story to tell and I want to be there to help turn the pages.
 **EDUCATION**
 SAVANNAH COLLEGE OF ART AND DESIGN
