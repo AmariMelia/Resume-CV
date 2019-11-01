@@ -1,10 +1,10 @@
 # AMARI MELIA JOHNSON RESUME
 
-**STATEMENT**
+## **STATEMENT**
 
 My interests lie in design and project management. Every person has a story to tell and I want to be there to help turn the pages.
 
-**EDUCATION**
+## **EDUCATION**
 
 **SAVANNAH COLLEGE OF ART AND DESIGN**
 
@@ -14,7 +14,7 @@ Master of Arts - Design Management | Start Spring 2020
 
 Bachelor of Fine Arts in Emerging Media - Digital Media, Animation | 2018
 
-**EXPERIENCE**
+## **EXPERIENCE**
 
 **PRODUCT ADVISOR**
 
@@ -43,7 +43,7 @@ Designed concepts for 3D environments within Unity. UI/UX research in VR.
 SeaWorld Parks and Entertainment | May 2017 - Dec 2017
 I draw Caricatures of people and families who come to visit SeaWorld. Within this position I get the opportunity to not only draw, but to connect and meet people from across the globe. It's a rewarding position that allows me to see the joy of guests when they take their memories that they can keep.
 
-**PROJECTS**
+## **PROJECTS**
 
 GUIDED IMAGERY - HEALING OF PTSD
 E2i Creative Studio | Aug 2017 - Dec 2017
@@ -52,7 +52,7 @@ Universal Creative | Jan 2015 - Jun 2015
 UCF PEDESTRIAN BRIDGE PROJECT
 UCF ADLab | Aug 2014 - Dec 2014
 
-**ORGANIZATIONS**
+## **ORGANIZATIONS**
 
 THEMED ENTERTAINMENT ASSOCIATION
 NextGen | May 2018 - May 2019 SIGGRAPH ASIA
@@ -60,7 +60,7 @@ Student Volunteer | Japan | 2018 Selected out of 500+ applicants
 ACM SIGGRAPH
 Student Volunteer | LA | 2017 Selected out of 600+ applicants
 
-**SKILLS**
+## **SKILLS**
 
 Project Management Environment Design Look Development Illustration
 2D Animation 3D Animation 3D Modeling UVing Texturing
