@@ -1,4 +1,4 @@
-# Resume-CV
+# AMARI MELIA JOHNSON RESUME
 
 **STATEMENT**
 
@@ -79,6 +79,9 @@ Project Management Environment Design Look Development Illustration
 **CONTACT**
 
 +1 813 407 3735 
+
 amarimeliaj@gmail.com 
-amarimelia.com 
+
+ Website: [amarimelia.com](http://amarimelia.com)
+ 
 linkedin.com/in/amarimelia
