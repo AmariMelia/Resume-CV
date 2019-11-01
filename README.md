@@ -1,5 +1,7 @@
 # AMARI MELIA JOHNSON RESUME
 
+[Amari Melia Johnson Resume_LEAP.pdf](https://github.com/AmariMelia/Resume-CV/files/3796720/Amari.Melia.Johnson.Resume_LEAP.pdf)
+
 ## **STATEMENT**
 
 My interests lie in design and project management. Every person has a story to tell and I want to be there to help turn the pages.
